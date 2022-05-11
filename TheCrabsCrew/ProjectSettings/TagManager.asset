@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Platform
+  - Interactable
+  - Ground
+  - CREATURES
+  - SfxAudioSource
+  - SimpleDialog
+  - PersonalizedDialog
+  - MainUICanvas
+  - GlobalVolume
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Interactables
+  - Trash
+  - Hero
+  - Barrels
+  - Walls
+  - Enemies
+  - Collectables
+  - Checkers
+  - Spike
+  - Tentacle
+  - Totem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1058432715
+    locked: 0
+  - name: DecorBack
+    uniqueID: 4053616411
+    locked: 0
+  - name: Level
+    uniqueID: 1086957685
+    locked: 0
+  - name: Trash
+    uniqueID: 2206121899
+    locked: 0
+  - name: Props
+    uniqueID: 2121340639
+    locked: 0
+  - name: Creatures
+    uniqueID: 2519758135
+    locked: 0
+  - name: Particles
+    uniqueID: 1577660841
+    locked: 0
+  - name: Overlay
+    uniqueID: 4218407487
+    locked: 0

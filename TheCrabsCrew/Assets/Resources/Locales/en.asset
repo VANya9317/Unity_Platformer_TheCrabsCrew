@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7db7c3135664e738dbe9671d970ee1b, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  _url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQvw7bTDVrq5dfZ3boJQnHs_945BSATAL3H_0IlpGmt2Vrk_ntD3hBTr4JXqJUz0vjSFe1Jljr2WTQw/pub?gid=0&single=true&output=tsv
+  _localeItems:
+  - Key: menu_title
+    Value: "menu\r"
+  - Key: button_newgame
+    Value: "new game\r"
+  - Key: button_startlevel
+    Value: "select level\r"
+  - Key: button_option
+    Value: "options\r"
+  - Key: button_exit
+    Value: "exit\r"
+  - Key: menu_pause
+    Value: "pause\r"
+  - Key: button_resume
+    Value: "resume\r"
+  - Key: button_restart
+    Value: "restart\r"
+  - Key: help
+    Value: "help\r"
+  - Key: load_level1
+    Value: "Level 1: New journey\r"
+  - Key: load_level2
+    Value: "Level 2: Light at the end of the tunnel\r"
+  - Key: load_level3
+    Value: "Level 3: The bad guys' lair\r"
+  - Key: load_level4
+    Value: "Level 4: Chief shithead\r"
+  - Key: load_level5
+    Value: "Level 5: And here we go again\r"
+  - Key: load_level6
+    Value: "BONUS LEVEL\r"
+  - Key: button_buy
+    Value: "buy\r"
+  - Key: price
+    Value: "Price:\r"
+  - Key: upgrade
+    Value: "upgrade\r"
+  - Key: menu_options
+    Value: "Options\r"
+  - Key: button_ok
+    Value: "ok\r"
+  - Key: music
+    Value: "Music:\r"
+  - Key: sfx
+    Value: "SFX:\r"
+  - Key: Language
+    Value: "Leanguage:\r"
+  - Key: info_double_jump
+    Value: "This is Double jump.\r"
+  - Key: info_super_throw
+    Value: "This is Super Throw. Select sword and hold Right mouse Button.\r"
+  - Key: info_force_shield
+    Value: "This is Force Shield. Press X to use. Grants temporary immunity to damage.\r"
+  - Key: info_sword_shield
+    Value: "This is Sword Shield. Press C to use. Gives 6 swords that fly around
+      the hero and deal damage.\r"
+  - Key: info_get_swords
+    Value: "Add 10 sword in inventory.\r"
+  - Key: info_get_potion_health
+    Value: "Heal 2 HP\r"
+  - Key: info_get_big_potion_health
+    Value: "Heal 10 HP\r"
+  - Key: health
+    Value: "Health\r"
+  - Key: speed
+    Value: "Speed\r"
+  - Key: damage
+    Value: "Damage\r"
+  - Key: crit_damage
+    Value: "Crit. Damage\r"
+  - Key: npc_dealer
+    Value: "Dealer\r"
+  - Key: button_continue
+    Value: "Continue...\r"
+  - Key: Level One
+    Value: "\r"
+  - Key: Helper
+    Value: "\r"
+  - Key: helper1
+    Value: "Use the WASD keys to control your character\r"
+  - Key: helper2
+    Value: "To manipulate an object press the \"E\" key, to activate the torch press
+      the \"F\" key.\r"
+  - Key: helper3
+    Value: "To attack press the RMB (Right Mouse button) to throw the sword (if you
+      have only one sword in your inventory, you can't throw the sword) press the
+      LMB (Left Mouse button)\r"
+  - Key: helper4
+    Value: "To heal yourself, choose a health potion from your inventory and right-click\r"
+  - Key: helper5
+    Value: "To improve your character's skills, click on the Hero icon on the left
+      side\r"
+  - Key: helper6
+    Value: "If you have control problems, go to the \"HELP\" menu in the pause menu\r"
+  - Key: lvl1_dialog1_1
+    Value: "Oh, there's a newcomer!\r"
+  - Key: lvl1_dialog1_2
+    Value: "Who are you shouting at? There's no one here.\r"
+  - Key: lvl1_dialog1_3
+    Value: "That's for now *evil laugh*\r"
+  - Key: lvl1_dialog2_1
+    Value: "Hey!\r"
+  - Key: lvl1_dialog2_2
+    Value: "You open the door from underneath\r"
+  - Key: lvl1_dialog2_3
+    Value: "I'm locked in here. There's a lever somewhere.\r"
+  - Key: lvl1_dialog3_1
+    Value: "Oh, thank you, mate, you've helped me out\r"
+  - Key: lvl1_dialog3_2
+    Value: "Oh, I know how to thank you \r"
+  - Key: lvl1_dialog3_3
+    Value: "There's my brother over there. Tell him you came for me, he'll give you
+      a good discount\r"
+  - Key: lvl1_dialog4_1
+    Value: "There you are, a dead end, but I know how to get out\r"
+  - Key: lvl1_dialog4_2
+    Value: "I hope you took a \"double jump\" from my brother\r"
+  - Key: lvl1_dialog5_1
+    Value: "What took you so long?\r"
+  - Key: lvl1_dialog5_2
+    Value: "Never mind, go through that door\r"
+  - Key: Level Two
+    Value: "\r"
+  - Key: lvl2_dialog1_1
+    Value: "Oh holy crab sticks it's dark in here\r"
+  - Key: lvl2_dialog1_2
+    Value: "Is that your candle?\r"
+  - Key: lvl2_dialog1_3
+    Value: "Turn it on!!!\r"
+  - Key: lvl2_dialog2_1
+    Value: "*I haven't collected all the keys (3 pcs) yet. I have to find them*\r"
+  - Key: Level Three
+    Value: "\r"
+  - Key: lvl3_dialog1_1
+    Value: "We finally got out of that place \r"
+  - Key: lvl3_dialog1_2
+    Value: "Oh shit. It's every man for himself \r"
+  - Key: lvl3_dialog1_3
+    Value: "What?\r"
+  - Key: lvl3_dialog2_1
+    Value: "You got here, look what I found\r"
+  - Key: lvl3_dialog3_1
+    Value: "DO YOU KNOW WHAT KIND OF DOOR THIS IS?\r"
+  - Key: lvl3_dialog3_2
+    Value: "I SUGGEST YOU PREPARE YOURSELF HERE\r"
+  - Key: Level Four
+    Value: "\r"
+  - Key: lvl4_dialog1_1
+    Value: "Boy, you are the craziest crab I know\r"
+  - Key: lvl4_dialog1_2
+    Value: "It will be a very difficult fight to prepare for\r"
+  - Key: lvl4_dialog1_3
+    Value: "XD\r"
+  - Key: lvl4_boss1_1
+    Value: "AHAHAHAHA is that you?\r"
+  - Key: lvl4_boss1_2
+    Value: "I thought you'd be bigger. What the hell are you doing here?\r"
+  - Key: lvl4_boss1_3
+    Value: "Those two crabs brought me here, I don't know what I'm doing here or
+      who you are\r"
+  - Key: lvl4_boss1_4
+    Value: "FUCKING CRABS\r"
+  - Key: lvl4_boss2_1
+    Value: "What have you done?\r"
+  - Key: lvl4_boss2_2
+    Value: "C-R-A-B-S\r"
+  - Key: Level Five
+    Value: "\r"
+  - Key: lvl5_dialog1_1
+    Value: "YOU DID IT! YOU FUCKING CRAB!\r"
+  - Key: lvl5_dialog1_2
+    Value: "Wait, what's wrong with you? You're disappearing! WHERE ARE YOU GOING?\r"
+  - Key: lvl5_boss1_1
+    Value: "You stupid fool thought you killed me? Are you completely stupid?\r"
+  - Key: lvl5_boss1_2
+    Value: "What? How? You're the fool!\r"
+  - Key: lvl5_boss1_3
+    Value: "AHAHAH RUN!\r"
+  - Key: lvl5_boss2_1
+    Value: "Who the fuck are you?\r"
+  - Key: lvl5_boss2_2
+    Value: "I'M A CRAB\r"
+  - Key: lvl5_dialog2_1
+    Value: "I ALL REMEMBER\r"
+  - Key: lvl5_dialog2_2
+    Value: "I'M A FUCKING CRAB!!!\r"
+  - Key: lvl5_dialog3_1
+    Value: "Hooray you're back \r"
+  - Key: lvl5_dialog3_2
+    Value: "Yeah, bro\r"
+  - Key: lvl5_dialog3_3
+    Value: "Okay, we have a LOT more to do\r"
+  - Key: lvl5_dialog3_4
+    Value: "Smells like a sequel\r"
+  - Key: end_game1
+    Value: "CONGRATULATIONS YOU HAVE PASSED THE GAME!!!!!\r"
+  - Key: end_game2
+    Value: "BUT THERE'S ANOTHER \"BONUS\" LEVEL WAITING FOR YOU! GO PASS WHAT ARE
+      YOU WAITING FOR!!!\r"
+  - Key: end_game3
+    Value: "Run a bonus level?\r"
+  - Key: end_game4
+    Value: "1. Yes\r"
+  - Key: end_game5
+    Value: "2. No\r"
+  - Key: info_blink
+    Value: When throwing, you can press the "Q" button (while the projectile is flying),
+      after which the character is teleported to the projectile's location
